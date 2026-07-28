@@ -117,9 +117,4 @@ Expensive: Laptop
 - Performed CRUD basics using Entity Framework Core
 
 ## Author
-
-Name: Akanksha Abhaykumar Saraf
-
-Course: Third Year Computer Engineering
-
-Subject: Entity Framework Core 8.0 Practical
+Name: Sainky Gupta 
